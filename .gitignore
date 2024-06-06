@@ -1,0 +1,4 @@
+.vscode
+target
+*.docx
+node_modules
